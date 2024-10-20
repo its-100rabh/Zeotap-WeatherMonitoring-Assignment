@@ -47,3 +47,20 @@ This will generate a Graphical User Interface for the user to work upon the citi
 
 ### Basic UI
 ![UI](screenshots/UI.png)
+
+### UI LOG
+![UI_log](screenshots/UI_Log.png)
+
+### Console LOG
+![console](screenshots/Console_Log.png)
+
+### Database
+![database](screenshots/Datbase_Storage.png)
+
+### Graph with Aggregates
+![temp](screenshots/Temperature_Graph_Visualization.png)
+
+### Console ALerts (Bonus)
+![alert](screenshots/Console_Humidity_Threshold_Alert.png)
+
+### More screenshots attached in the screenshot directory.
