@@ -42,3 +42,8 @@ Configure the system by updating `app.py` with other settings if needed.
      python app.py
 
 This will generate a Graphical User Interface for the user to work upon the cities, dates and temperature unit selection. The GUI also provides a real time log where the user can see major weather details. The user can fetch the temperature graph from the `Fetch Weather` button and the humidity and wind speed graph from the `Fetch Humidity and Wind` button. The application also logs the details in the platform console and adds the data to the `weather_data.db`. The user can also find the temperature aggregates through the graph, database and even in the gui console.
+
+## Snippets
+
+### Basic UI
+![UI](screenshots/UI.png)
