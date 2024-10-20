@@ -55,7 +55,7 @@ This will generate a Graphical User Interface for the user to work upon the citi
 ![console](screenshots/Console_Log.png)
 
 ### Database
-![database](screenshots/Datbase_Storage.png)
+![database](screenshots/Database_Storage.png)
 
 ### Graph with Aggregates
 ![temp](screenshots/Temperature_Graph_Visualization.png)
